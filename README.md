@@ -8,7 +8,7 @@ That's why i come up with the idea for a simple script, with usage of <a href="h
 
 When you click "ctrl + s" it saves the file you were actually working on, then (dependinding on which script is active) activate web browser windows, hits refresh and activate the window of the text editor/code editor you were working with (default is <a href="http://www.sublimetext.com/" target="_blank">Sublime 2</a>).
 
-<h1>I use other text editor/code editor than Sublime, what now?</h1>
+<h1>I use other text/code editor than Sublime, what now?</h1>
 
 No worries, oopen selected script you are using, find:
 
