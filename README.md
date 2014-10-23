@@ -23,8 +23,9 @@ and edit it to:
 </pre>
 
 
-<h1>What is my editor name?</h1>
+<h1>What is my text/code editor name?</h1>
 The most common solution to find what is your editor name is by launching taskManager and check the "Description", then copy the description to script.
 
 
-
+<h3>Link to post on my blog about this</h3>
+<a href="http://tooschee.com/control-save/">Control-save</a>
