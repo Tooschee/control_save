@@ -6,7 +6,7 @@ That's why i come up with the idea for a simple script, with usage of <a href="h
 
 <h1>What this script do?</h1>
 
-When you click "ctrl + s" it saves the file you were actually working on, then (dependinding on which script is active) activate web browser windows, hits refresh and activate the window of the text editor/code editor you were working with (default is <a href="http://www.sublimetext.com/" target="_blank">Sublime 2</a>).
+When you click "ctrl + s" it saves the file you were actually working on, then (dependinding on which script is active) activate web browser window, hits refresh and currently opened tab/page and return to the window of the text editor/code editor you were working on (default is <a href="http://www.sublimetext.com/" target="_blank">Sublime 2</a>), no more switching needed.
 
 <h1>I use other text/code editor than Sublime, what now?</h1>
 
@@ -21,6 +21,10 @@ and edit it to:
 <pre>
   WinMenuSelectItem, YOUR_EDITOR_NAME, , File, Save  
 </pre>
+
+<h1>Which script I want?</h1>
+Well, it depends - there are versions for each, individual browser and you can actually launch them simultaneously OR use the "control_save_all_4.ahk" script - if will refresh 4 major browsers(if you have them opened)
+
 
 
 <h1>What is my text/code editor name?</h1>
